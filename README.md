@@ -5,3 +5,12 @@ This repository is related to system analysis and design. In this project, I cre
 
 ## About phase 0
 This phase includes the preparation of a project definition document (including mandatory, non-mandatory requirements, etc.), a Gantt chart of the hypothetical project development schedule (drawn with MS Project software) and the drawing of the user case prioritization matrix.
+
+## About phase 1
+This stage of the project includes drawing the user case diagram of the environment (using MS Visio software) and describing the three main user case stories (except the case of login, membership, search and payment users).
+
+## About phase 2
+This stage of the project includes drawing high-level and low-level data flow diagrams (with MS Visio software) for all operations seen in the environment, as well as drawing a class diagram for the selected environment with full details of attributes and behaviors and the relationship between classes.
+
+## About phase 3
+This phase includes drawing the entity-relationship diagram of your project and two activity diagrams and two sequence diagrams for the main use cases of the project (except registration, login, search and payment).
